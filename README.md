@@ -1,4 +1,4 @@
 Hi there 👋
 
-<h3><b>Contact me:</b><h3><br>
+<b>Contact me:</b><br>
 email - [pankajk.alpine@gmail.com](mailto:pankajk.alpine@gmail.com)
