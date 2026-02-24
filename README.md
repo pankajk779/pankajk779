@@ -1,4 +1,5 @@
-
+I help businesses and startups to grow their business with a great mobile application experience.
+  
 ### Technical skills:<br>  
 > Android SDK, Jetpack, Compose, MVVM, Design patterns, Kotlin, Java, C, C++, HTML  
   
