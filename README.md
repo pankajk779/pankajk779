@@ -1,10 +1,9 @@
 Hi there 👋
 
 <b>Contact/Hire me:</b><br>
-<img src="https://github.com/pankajk779/pankajk779/blob/main/email.png" alt="email icon" width="20px">
 email - [pankajk.alpine@gmail.com](mailto:pankajk.alpine@gmail.com) &#x2192;
 <br>
-linkedIn - [Pankaj Kumar](https://linkedin.com/in/pankajk779) &#x2192;
+linkedIn - [www.linkedin.com/in/pankajk779](https://linkedin.com/in/pankajk779) &#x2192;
 <br>
 <br>
 <br>
