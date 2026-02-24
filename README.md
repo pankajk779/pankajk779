@@ -1,7 +1,7 @@
 Hi there 👋
 
 -----
-##Contact/Hire me:
+##Contact/Hire
 <br>
 <br>
 email:<br>
