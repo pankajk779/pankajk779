@@ -1,5 +1,6 @@
 Hi there 👋
 
+<hr>
 <b>Contact/Hire me:</b><br>
 <br>
 email:<br>
@@ -14,6 +15,7 @@ Location - Gurugram, India
 <br>
 <br>
 <br>
+<hr>
 <b>Keywords:</b><br>
 Android SDK, Jetpack, Compose, MVVM, Design patterns, Kotlin, Java, C, C++, HTML
 
