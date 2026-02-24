@@ -1,15 +1,11 @@
 
-### Contact/Hire me:
-<br>
-<br>
-email:<br>
-[pankajk.alpine@gmail.com](mailto:pankajk.alpine@gmail.com)
-<br>
-<br>
-linkedIn<br>
-[www.linkedin.com/in/pankajk779](https://linkedin.com/in/pankajk779) &#x2192;
-<br>
-<br>
+### Contact/Hire me:  
+  
+email:  
+[pankajk.alpine@gmail.com](pankajk.alpine@gmail.com)  
+  
+linkedIn  
+[www.linkedin.com/in/pankajk779](https://linkedin.com/in/pankajk779) &#x2192;  
 Location - Gurugram, India
 <br>
 <br>
