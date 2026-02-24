@@ -11,6 +11,6 @@
 <br>
 <br>
 <br>
-<b>Keywords:</b><br>
+<b>Technical skills:</b><br>
 Android SDK, Jetpack, Compose, MVVM, Design patterns, Kotlin, Java, C, C++, HTML
 
