@@ -5,7 +5,6 @@
 `Location` - Gurugram, India
 <br>
 <br>
-<br>
 ### Technical skills:<br>
 Android SDK, Jetpack, Compose, MVVM, Design patterns, Kotlin, Java, C, C++, HTML
 
