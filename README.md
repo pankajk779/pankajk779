@@ -1,6 +1,7 @@
 
 ### Technical skills:<br>  
 Android SDK, Jetpack, Compose, MVVM, Design patterns, Kotlin, Java, C, C++, HTML  
+
   
 ### Contact/Hire me:  
 [pankajk.alpine@gmail.com](pankajk.alpine@gmail.com) &#x2192;  
