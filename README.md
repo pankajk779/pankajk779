@@ -1,6 +1,6 @@
 Hi there 👋
 
-<hr>
+_____
 <b>Contact/Hire me:</b><br>
 <br>
 email:<br>
