@@ -1,7 +1,7 @@
 Hi there 👋
 
 -----
-<b>###Contact/Hire me:</b><br>
+###Contact/Hire me:<br>
 <br>
 email:<br>
 [pankajk.alpine@gmail.com](mailto:pankajk.alpine@gmail.com) &#x2192;
