@@ -1,7 +1,7 @@
 
 ### Contact/Hire me:  
   
-*`email:`  
+`*email:`  
 [pankajk.alpine@gmail.com](pankajk.alpine@gmail.com) &#x2192;  
 <br>
 *`linkedIn`  
